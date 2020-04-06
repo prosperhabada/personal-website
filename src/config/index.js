@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Prosper Habada | Software Engineer',
+  siteTitle: 'Prosper Habada |',
   siteDescription:
     'Prosper Habada is an Educator and Software Engineer based in Accra, Ghana who specializes in developing (and occasionally designing) exceptional websites and applications.',
   siteKeywords:
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/prosperhabada',
+      url: 'https://www.linkedin.com/in/prosperhabada',
     },
 
     {
