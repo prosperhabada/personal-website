@@ -1,38 +1,35 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Prosper Habada | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Prosper Habada is an Educator and Software Engineer based in Accra, Ghana who specializes in developing (and occasionally designing) exceptional websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Prosper Habada, Prosper, Habada, prosperhabada, software engineer, computer engineer, web developer, python, django, electronics',
+  siteUrl: 'https://prosperhabada.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: 'UA-162851782-1',
+  googleVerification: 'YR4HV3TipEd2qW7y97_UZUOnG7cwr9G90jICy8YV8XQ',
+  name: 'Prosper Habada',
+  location: 'Accra, Ghana',
+  email: 'prosperhabada@gmail.com',
+  github: 'https://github.com/prosperhabada',
+  twitterHandle: '@prosperhabada',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/prosperhabada',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/prosperhabada',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/prosperhabada/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/prosperhabada',
     },
   ],
 

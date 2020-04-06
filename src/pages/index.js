@@ -1,9 +1,11 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
+import { Layout, Hero, About, Jobs, Featured, Contact } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
+
+//<Projects data={data.projects.edges} /> to be on line 21 If I need projects component back. but first add import to th list on line 4
 
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
@@ -16,7 +18,7 @@ const IndexPage = ({ location, data }) => (
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
       <Featured data={data.featured.edges} />
-      <Projects data={data.projects.edges} />
+
       <Contact data={data.contact.edges} />
     </StyledMainContainer>
   </Layout>

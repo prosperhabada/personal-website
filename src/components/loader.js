@@ -2,11 +2,11 @@ import React, { useState, useEffect } from 'react';
 import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import anime from 'animejs';
-import { IconLoader } from '@components/icons';
+// import { IconLoader } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins } from '@styles';
 const { colors } = theme;
-
+//there is IconLoader on line 90 for the initial loader.
 const StyledContainer = styled.div`
   ${mixins.flexCenter};
   background-color: ${colors.darkNavy};
@@ -52,7 +52,7 @@ const Loader = ({ finishLoading }) => {
         strokeDashoffset: [anime.setDashoffset, 0],
       })
       .add({
-        targets: '#logo #B',
+        targets: '#logo #P',
         duration: 800,
         easing: 'easeInOutQuart',
         opacity: 1,
@@ -86,9 +86,7 @@ const Loader = ({ finishLoading }) => {
     <StyledContainer className="loader">
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
-      <StyledLogo isMounted={isMounted}>
-        <IconLoader />
-      </StyledLogo>
+      <StyledLogo isMounted={isMounted}></StyledLogo>
     </StyledContainer>
   );
 };

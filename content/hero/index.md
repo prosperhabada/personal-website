@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Hi, I am'
+name: 'Prosper Habada'
+subtitle: 'Lovely to meet you'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+Educator & Computer Engineer from Ghana passionate in raising tomorrow's leaders while occasionally stumbling on ways to impact lives positively through technology.
