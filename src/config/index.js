@@ -13,6 +13,7 @@ module.exports = {
   email: 'prosperhabada@gmail.com',
   github: 'https://github.com/prosperhabada',
   twitterHandle: '@prosperhabada',
+  tidioCode: 'q9fhihybkqlis6r9plx8yinqugliwxmt',
   socialMedia: [
     {
       name: 'GitHub',
