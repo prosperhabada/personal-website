@@ -139,16 +139,16 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: config.googleAnalyticsID,
-      },
-    },
-    {
       resolve: `gatsby-plugin-tidio`,
       options: {
         tidioId: 'q9fhihybkqlis6r9plx8yinqugliwxmt',
         development: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: config.googleAnalyticsID,
       },
     },
   ],
