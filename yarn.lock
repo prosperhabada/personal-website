@@ -5536,6 +5536,11 @@ gatsby-plugin-styled-components@^3.1.14:
   dependencies:
     "@babel/runtime" "^7.7.4"
 
+gatsby-plugin-tidio-chat@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-tidio-chat/-/gatsby-plugin-tidio-chat-1.0.0.tgz#d9e27222ce7fce2e7e899c16a28e358a53a0bb97"
+  integrity sha512-rUcpnFSwNiqBPEtsH6GsQmpZN9BbePFduBm7AL/UGb1XqCrUSroq6ZNED2H44Gp5WJ0aCKkV/Tg1eratY6oAlQ==
+
 gatsby-plugin-tidio@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-tidio/-/gatsby-plugin-tidio-1.0.3.tgz#6551dd22fdc0449ee938da8becb2e9f98a382025"
