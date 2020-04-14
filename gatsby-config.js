@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ProsperHabada',
-        short_name: 'ProsperHabada',
+        name: 'BrittanyChiang',
+        short_name: 'BrittanyChiang',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
@@ -147,8 +147,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-tidio`,
       options: {
-        tidioId: config.tidioCode,
-        // get this from the tidio script widget
+        tidioId: 'q9fhihybkqlis6r9plx8yinqugliwxmt',
         development: true,
       },
     },

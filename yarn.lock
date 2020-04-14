@@ -5536,6 +5536,11 @@ gatsby-plugin-styled-components@^3.1.14:
   dependencies:
     "@babel/runtime" "^7.7.4"
 
+gatsby-plugin-tidio@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-tidio/-/gatsby-plugin-tidio-1.0.3.tgz#6551dd22fdc0449ee938da8becb2e9f98a382025"
+  integrity sha512-Sd/oGg7pDJ0Hj72a+dmMF2Yx2p9SnTKIkdjnLGnV/9D9DN8AQjGosM0mb7rig2JHoonhm16fxnBgEYNYYLsGqw==
+
 gatsby-react-router-scroll@^2.1.17:
   version "2.1.17"
   resolved "https://registry.yarnpkg.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-2.1.17.tgz#1a8cbb8c5ca7dae40d1a650766d21a92a2a8f565"
