@@ -1,10 +1,10 @@
 ---
 date: '2014-01-025'
-title: 'CEO'
+title: ''
 company: 'Witech'
 location: 'Kumasi, Ghana'
 range: 'January 2014 - May 2016'
-url: 'https://www.vivisoftghana.com'
+url: ''
 ---
 
 - Monitored business trend forecasts and adjusted budgets and operational plans to
