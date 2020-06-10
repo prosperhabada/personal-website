@@ -1,0 +1,7 @@
+navigate to v4
+nvm list
+nvm use 12.14.1
+npm start
+npm run build
+npm run serve
+
