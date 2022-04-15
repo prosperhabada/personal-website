@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './mehelmet.jpg'
+avatar: './mehelmet.JPG'
 skills:
   - Python
   - HTML & CSS
