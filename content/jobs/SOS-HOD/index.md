@@ -7,7 +7,7 @@ range: 'March 2020 - March 2022'
 url: 'https://www.soshgic.edu.gh/'
 ---
 
-As my principal responsibilities, I:
+As principal responsibilities,:
 
 - led in the department’s subject areas: [Computer Science](https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/), [Information Technology in a Global Society](https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/information-technology-in-a-global-society/) and [Design](https://www.ibo.org/programmes/middle-years-programme/curriculum/design/),
 
@@ -17,7 +17,7 @@ As my principal responsibilities, I:
 
 * Participated in the formulation and implementation of the school's policies.
 
-In addition to these, I: 
+In addition to these,: 
 
 - Managed, mentored and coached students in the programming, robotics and electronics club to learn and apply concepts in science, technology, engineering, and math to solve problems.
 
