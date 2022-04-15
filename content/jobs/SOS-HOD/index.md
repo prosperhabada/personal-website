@@ -13,9 +13,9 @@ As principal responsibilities,:
 
 - Planned, implemented and reviewed the curriculum within the framework of the [IB Diploma Programme](https://www.ibo.org/programmes/diploma-programme/), and the [IB Middle Years Programme](https://www.ibo.org/programmes/middle-years-programme/)
 
-* Oversaw planning, teaching and learning within the department.
+- Oversaw planning, teaching and learning within the department.
 
-* Participated in the formulation and implementation of the school's policies.
+- Participated in the formulation and implementation of the school's policies.
 
 In addition to these,: 
 
@@ -23,5 +23,5 @@ In addition to these,:
 
 - Oversaw rigorous practice sessions to enhance students' skills in problem-solving and 
 
-- Coached students in local and international STEM (Science, Technology, Engineering, and Math) competitions.
+- Coached students in local and international STEM (Science, Technology, Engineering, and Math) competitions such as [First Lego League](https://www.firstlegoleague.org/), [Pan-African Robotics Competition](https://parcrobotics.org/), [Microsoft Imagine Cup Challenge](https://imaginecup.microsoft.com/en-us/Events).
 
