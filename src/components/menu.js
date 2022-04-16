@@ -73,7 +73,7 @@ const NavLink = styled(Link)`
   padding: 3px 20px 20px;
   width: 100%;
 `;
-const ResumeLink = styled.a`
+const Link = styled.a`
   ${mixins.bigButton};
   padding: 18px 50px;
   margin: 10% auto 0;
@@ -107,9 +107,9 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
-            Resume
-          </ResumeLink>
+          <Link href="/" target="_blank" rel="nofollow noopener noreferrer">
+            
+          </Link>
         </NavLinks>
       </Sidebar>
     </StyledContainer>
