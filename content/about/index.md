@@ -2,7 +2,11 @@
 title: 'About Me'
 avatar: './mehelmet.JPG'
 skills:
-  
+  - Python
+  - Django
+  - Raspberry Pi
+  - Arduino
+  - IoT
 ---
 
 Hello! I'm Prosper, an educator and computer engineer based in Accra, Ghana who enjoys teaching and building projects that live on the internet. I tinker arduinos and the raspberry pi when I have the time to spare. I love the feeling of floating on water and feeling almost weightless... j'adore la natation.
@@ -11,3 +15,4 @@ I graduated with a Bsc in Computer Engineering from [Kwame Nkrumah University of
 
 I'm currently pursuing my Master's Degree in Education, Leadership in Learning - Global Perspective focus at the [University of Prince Edward Island](https://www.upei.ca/) in Canada.
 
+Here are a few tech stacks I've worked with:
