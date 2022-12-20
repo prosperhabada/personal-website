@@ -1,7 +1,8 @@
 ---
 title: 'About Me'
 avatar: './mehelmet.JPG'
-
+skills:
+  
 ---
 
 Hello! I'm Prosper, an educator and computer engineer based in Accra, Ghana who enjoys teaching and building projects that live on the internet. I tinker arduinos and the raspberry pi when I have the time to spare. I love the feeling of floating on water and feeling almost weightless... j'adore la natation.
