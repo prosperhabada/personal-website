@@ -17,4 +17,4 @@ I graduated with a Bsc in Computer Engineering from [Kwame Nkrumah University of
 
 I'm currently pursuing my Master's Degree in Education, Leadership in Learning - Global Perspective focus at the [University of Prince Edward Island](https://www.upei.ca/) in Canada.
 
-Here are a few tech stacks I've been working with recently:
+Here are a few tech stacks I've been working with recently: 
