@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './mehelmet.JPG'
+avatar: './profile.jpg'
 skills:
   - Python
   - Django
