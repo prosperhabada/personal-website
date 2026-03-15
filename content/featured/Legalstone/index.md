@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-A Website for a Law firm in Ghana. CMS with of plugins and tweaks.
+A Website for a Law firm in Ghana. CMS with plugins and tweaks.

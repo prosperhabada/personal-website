@@ -1,15 +1,15 @@
 module.exports = {
-  siteTitle: 'Prosper Habada |',
+  siteTitle: 'Prosper Habada | Educator & Technologist',
   siteDescription:
-    'Prosper Habada is an Educator and Software Engineer based in Accra, Ghana who specializes in developing (and occasionally designing) exceptional websites and applications.',
+    'Prosper Habada is an Educator and Technologist based in Prince Edward Island, Canada. Learning Manager at Holland College with a Master of Education in Educational Leadership.',
   siteKeywords:
-    'Prosper Habada, Prosper, Habada, prosperhabada, software engineer, computer engineer, web developer, python, django, electronics',
+    'Prosper Habada, Prosper, Habada, prosperhabada, educator, technologist, learning manager, software engineer, computer engineer, web developer, python, django, curriculum design, IB examiner',
   siteUrl: 'https://prosperhabada.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-162851782-1',
   googleVerification: 'YR4HV3TipEd2qW7y97_UZUOnG7cwr9G90jICy8YV8XQ',
   name: 'Prosper Habada',
-  location: 'Accra, Ghana',
+  location: 'Prince Edward Island, Canada',
   email: 'prosperhabada@gmail.com',
   github: 'https://github.com/prosperhabada',
   twitterHandle: '@prosperhabada',
