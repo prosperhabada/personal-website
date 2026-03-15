@@ -68,6 +68,12 @@ const Footer = () => (
     <StyledMetadata tabindex="-1">
       <StyledCredit>
         <div>Designed &amp; Built by Prosper Habada</div>
+        <div>
+          Forked from{' '}
+          <a href="https://brittanychiang.com/" target="_blank" rel="nofollow noopener noreferrer">
+            Brittany Chiang
+          </a>
+        </div>
       </StyledCredit>
     </StyledMetadata>
   </StyledContainer>
