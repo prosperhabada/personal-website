@@ -50,6 +50,11 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
+    {
+      name: 'Lamp',
+      url: '/lamp/',
+      isStatic: true,
+    },
   ],
 
   navHeight: 100,

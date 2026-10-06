@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a192f">
+<meta name="description" content="A little lamp playground by Prosper Habada. Flip the switch, swing the shade, and take a shot.">
+<title>Slingshot Lamp | Prosper Habada</title>
+<link rel="canonical" href="https://prosperhabada.com/lamp/">
+<link rel="stylesheet" href="./lamp.css">
+</head>
+<body>
+<header><a class="brand" href="/">Prosper Habada</a><a href="/">Back to home</a></header>
+<main>
+<div class="intro"><h1>Please don’t<br>touch the lamp.</h1><p>Flip the switch. Swing the shade. Take your shot.</p></div>
+<canvas id="playground" tabindex="0" aria-label="Interactive lamp playground" aria-describedby="instructions keyboard-help"></canvas>
+<button id="switch" class="wall-switch" aria-label="Turn the lamp off" aria-pressed="true"><span class="screw" aria-hidden="true"></span><span class="rocker" aria-hidden="true"></span><span class="screw" aria-hidden="true"></span></button>
+<p id="keyboard-help" class="sr-only">Keyboard: S toggles the switch. Left and right change your aim. Up and down adjust power. Enter takes a shot. Space swings the shade. B replaces a broken bulb. R resets the playground.</p>
+<p id="announcement" class="sr-only" role="status" aria-live="polite"></p>
+<noscript><p class="no-script">Enable JavaScript to play with the lamp.</p></noscript>
+</main>
+<footer><div class="readout"><output id="stats">0 shots · 0 bulbs</output><p id="instructions">Drag the pebble back, then release.</p></div><div class="controls"><button id="sound" aria-pressed="true">Sound on</button><button id="replace">Replace bulb</button><button id="reset">Reset</button></div></footer>
+<script type="module" src="./lamp.js"></script>
+</body></html>
